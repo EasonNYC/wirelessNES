@@ -1,5 +1,6 @@
 # wirelessNES
-Firmware written in Arduino C for a wireless NES controller and receiver unit.
+Transmitter and Receiver firmware for a wireless NES controller and receiver which appears as a USB HID joystick in Windows.
+written in Arduino C 
 
 Author: Eason Smith (Eason@EasonRobotics.com)
 
