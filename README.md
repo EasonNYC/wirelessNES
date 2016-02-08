@@ -21,7 +21,7 @@ This project would not be possible without some amazing work done by the followi
 **Authors Note:**  
 2/8/2016 - While this project is no longer active (it's about 6 years old) I am currently working to document it for myself and others
 who might find it interesting. Because of this, I cant currently make strong gaurentees that these files will still compile even for the original
-arduino IDE version it was designed for (V0020). This is due to small code / comment cleanups here and there while the hardware has remained
+arduino IDE version it was designed for (V0020). This is due to small code refactorings / comment cleanups here and there while the hardware has remained
 in storage. I am actively working to confirm functionality using other methods, and I hope to reproduce misssing documentation as I go along. 
 Thanks for your patience. -Eason
 
