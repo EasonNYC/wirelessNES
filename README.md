@@ -1,8 +1,12 @@
 # wirelessNES
-Transmitter and Receiver firmware for a wireless NES controller and receiver which appears as a USB HID joystick in Windows.
-written in Arduino C 
+Transmitter and Receiver code for a wireless NES controller which appears as a USB HID joystick in Windows. Written in Arduino C. 
 
 Author: Eason Smith (Eason@EasonRobotics.com)
+
+**Requires:**
+* Arduino IDE V0020 (or below V1.0)
+* Virtualwire Library - http://www.airspayce.com/mikem/arduino/VirtualWire/
+* Arduino UNO rev2 with an onboard atmega8U2 (may work for atmega16U2, but this is not tested)
 
 For more documentation (HW and SW) on this project, please visit http://www.easonrobotics.com/?portfolio=wireless-nes-controller
 
@@ -20,11 +24,6 @@ who might find it interesting. Because of this, I cant currently make strong gau
 arduino IDE version it was designed for (V0020). This is due to small code / comment cleanups here and there while the hardware has remained
 in storage. I am actively working to confirm functionality using other methods, and I hope to reproduce misssing documentation as I go along. 
 Thanks for your patience. -Eason
-
-**Requires:**
-* Arduino IDE V0020 (or below V1.0)
-* Virtualwire Library - http://www.airspayce.com/mikem/arduino/VirtualWire/
-* Arduino UNO rev2 with an onboard atmega8U2 (may work for atmega16U2, but this is not tested)
 
 **What's currently missing:**  
 
