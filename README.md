@@ -23,6 +23,8 @@ This project transforms a classic NES controller into a wireless, rechargeable g
 
 ### Hardware Components
 
+![NES Schematic](https://easonnyc.github.io/portfolio/assets/images/NESschem.png)
+
 **Transmitter (Controller)**
 - **MCU**: Atmel ATmega328P with Arduino bootloader
 - **Power**: 400mAh 3.7V LiPo battery (boosted to 5V)
