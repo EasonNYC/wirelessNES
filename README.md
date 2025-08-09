@@ -127,6 +127,8 @@ typedef struct {
 
 ### LED Status Indicators
 
+[![LED Status Demo](https://img.youtube.com/vi/mdeyef78u-4/0.jpg)](https://www.youtube.com/watch?v=mdeyef78u-4)
+
 | Pattern | Meaning |
 |---------|---------|
 | Solid On | Normal Operation |
