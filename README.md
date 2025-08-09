@@ -134,7 +134,9 @@ typedef struct {
 
 ### LED Status Indicators
 
+**📺 Watch the LED Status Demo on YouTube:**
 [![LED Status Demo](https://img.youtube.com/vi/mdeyef78u-4/0.jpg)](https://www.youtube.com/watch?v=mdeyef78u-4)
+*Click the image above to watch the LED status indicator demonstration*
 
 | Pattern | Meaning |
 |---------|---------|
