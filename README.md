@@ -1,5 +1,7 @@
 # Wireless NES Controller
 
+![Wireless NES Controller](https://easonnyc.github.io/portfolio/assets/images/NES11.png)
+
 A modernized wireless NES controller that maintains the original look and feel while adding contemporary wireless functionality and USB compatibility for retro gaming on modern systems.
 
 ![Wireless NES Controller](https://img.shields.io/badge/Status-Retired%20Project-orange) ![Language](https://img.shields.io/badge/Language-C-blue) ![Platform](https://img.shields.io/badge/Platform-Arduino-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
