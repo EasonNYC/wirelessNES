@@ -65,6 +65,11 @@ This project transforms a classic NES controller into a wireless, rechargeable g
    - Cut openings for power switch and programming connector
    - Install diffused plastic for LED light pipe under Nintendo logo
 
+   ![NES Inside 1](https://easonnyc.github.io/portfolio/assets/images/NESinside1.jpg)
+   ![NES Inside 2](https://easonnyc.github.io/portfolio/assets/images/NESinside2.jpg)
+   ![NES Logo](https://easonnyc.github.io/portfolio/assets/images/NESlogo.png)
+   ![NES Plastic](https://easonnyc.github.io/portfolio/assets/images/NESplasticWin.jpg)
+
 2. **Circuit Assembly**
    - Solder ATmega328P minimal circuit on perfboard
    - Install LiPo battery and boost regulator
